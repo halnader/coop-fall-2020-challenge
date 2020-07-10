@@ -1,6 +1,3 @@
 {
-  "tests/test_python_solution.py::test_bulk_redo_overstep": true,
-  "tests/test_python_solution.py::test_bulk_undo": true,
-  "tests/test_python_solution.py::test_bulk_undo_overstep": true,
   "tests/test_python_solution.py::test_redo": true
 }
